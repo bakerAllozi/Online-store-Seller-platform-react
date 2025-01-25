@@ -1,5 +1,4 @@
 # Online-store-Seller-platform-react
-A-platform-for-building-online-stores-seamlessly-integrated-with-client-websites-typescript
 # [E-commerce Platform] - Build Your Own Store
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
